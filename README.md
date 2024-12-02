@@ -1,1 +1,1 @@
-# Aplição-Web-com-Auto-Scaling-no-GCP
+# Aplicação-Web-com-Auto-Scaling-no-GCP
